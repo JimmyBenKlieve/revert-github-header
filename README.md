@@ -1,4 +1,4 @@
-# Revert Github dark theme header to light theme
+# Revert Github dark color header to the original color
 Revert github ugly dark theme header to light theme by purely overwrite CSS.
 
 # How to use
