@@ -3,13 +3,16 @@
  	background-color: #f5f5f5;
 }
 
-.header .header-logo-invertocat, 
-.header .header-nav-link,
+.header .header-logo-wordmark, /* Gist logo */
+.header .header-logo-invertocat, /* Github logo */
+.header .header-nav-link, /* Other things on the header */
 .header .header-search-wrapper.form-control *,
 .header .header-search-wrapper.form-control.focus * {
     color: #555;
 }
 
+.header .header-logo-wordmark:hover,
+.header .header-logo-wordmark:focus,
 .header .header-logo-invertocat:hover,
 .header .header-logo-invertocat:focus,
 .header .header-nav-link:hover,
